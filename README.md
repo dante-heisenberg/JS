@@ -1,2 +1,2 @@
-<h1>MATERI JAVASCRIPT DARI BEBERAPA YOUTUBER PROGRAMMER INDONESIA</h1>
+<h2>JAVA SCRIPT | PROGRESS</h2>
 <a href="https://dante-heisenberg.github.io/">About me</a>
